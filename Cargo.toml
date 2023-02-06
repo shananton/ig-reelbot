@@ -12,3 +12,5 @@ tokio = { version = "1.25.0", features = ["full"] }
 url = "2.3.1"
 async-process = "1.6.0"
 substring = "1.4.5"
+env_logger = "0.10.0"
+log = "0.4.17"
